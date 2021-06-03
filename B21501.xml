@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The duty of children to parents.</title>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21501</idno><idno type="EEBO-CITATION">99885389</idno>
+  <idno type="VID">201329</idno>
+  <idno type="EEBO-PROQUEST">2248535164</idno>
+  
+            <idno type="STC">Wing D2910</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.22[53]</idno>
+            <idno type="STC">ESTC R222976</idno>
+            <idno type="PROQUEST">ocm99885389</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885389e"/>
+            <note>(EEBO-TCP ; phase 2, no. B21501)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 201329)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; B2:1[64])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The duty of children to parents.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Sam. and Will. Keble at the Turk's-Head in Fleet-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon; date of publication from BL.</note>
+                  <note>Printed in double columns.</note>
+                  <note>With an 3-line advertisement below imprint for books "by the author of The week's preparation to the sacrament ...".</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Children --  Religious life --  Early works to 1800.</term>
+               <term type="topical_term">Children --  Conduct of life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:201329:1"/>
+            <head>THE DUTY of CHILDREN to PARENTS.</head>
+            <div n="wise child" type="part">
+               <head>A <hi>Wise</hi> (that is, a Godly) Son [or Daughter.]</head>
+               <list>
+                  <item>
+                     <hi>A</hi> Wise <hi>Son maketh a glad</hi> Father.</item>
+                  <item>
+                     <hi>A</hi> Wise <hi>Son heareth his</hi> Father<hi>'s Instructions.</hi>
+                  </item>
+                  <item>
+                     <hi>He that regardeth</hi> Reproof <hi>is Prudent.</hi>
+                  </item>
+                  <item>
+                     <hi>The Lips of the Righteous know what is acceptable.</hi>
+                  </item>
+                  <item>
+                     <hi>The</hi> Wise <hi>in Heart will receive Commandments.</hi>
+                  </item>
+                  <item>
+                     <hi>The Tongue of the</hi> Wise <hi>useth knowledg aright.</hi>
+                  </item>
+                  <item>
+                     <hi>He that walks with</hi> Wise <hi>Men shall be</hi> Wise.</item>
+                  <item>
+                     <hi>The Lips of the</hi> Wise <hi>shall preserve them.</hi>
+                  </item>
+                  <item>Wise-Men <hi>lay up Knowledg.</hi>
+                  </item>
+                  <item>
+                     <hi>A</hi> Wise <hi>Daughter shall bring an Inheritance to her Husband.</hi>
+                  </item>
+                  <item>
+                     <hi>Whoso honoureth his</hi> Father, <hi>maketh an atonement for his Sins,</hi> Ecclus. 3.3.</item>
+                  <item>
+                     <hi>He that honoureth his</hi> Mother, <hi>is as one that layeth up trea<g ref="char:EOLhyphen"/>sure,</hi> Ecclus. 3.4.</item>
+                  <item>
+                     <hi>He that feareth the Lord, will honour his</hi> Father, <hi>and will do service unto his</hi> Parents, <hi>as to his Masters,</hi> Ecclus. 3.7.</item>
+                  <item>
+                     <hi>Whoso honours his</hi> Father, <hi>shall have joy of his own Chil<g ref="char:EOLhyphen"/>dren; and when he makes his Prayer he shall be heard,</hi> Ecclus. 3.5.</item>
+               </list>
+               <p>
+                  <figure>
+                     <figDesc>stern minister admonishing subservient children</figDesc>
+                     <q>Come ye Children and harken unto me and I Will teach you the fear of y<seg rend="sup">e</seg> of y<seg rend="sup">e</seg> Lord <bibl>Ps. y<seg rend="sup">e</seg>: 34: 11:</bibl>
+                     </q>
+                     <byline>W Emett Fecit.</byline>
+                  </figure>
+               </p>
+            </div>
+            <div n="foolish child" type="part">
+               <head>A <hi>Foolish</hi> (that is, a Wicked) Son [or Daughter.]</head>
+               <list>
+                  <item>
+                     <hi>A</hi> Foolish <hi>Son is the heaviness of his</hi> Mother, Prov. 10.1.</item>
+                  <item>
+                     <hi>A</hi> Foolish <hi>Man Despiseth his Mother,</hi> Prov. 15.20.</item>
+                  <item>
+                     <hi>A</hi> Scorner <hi>heareth not Rebuke,</hi> Prov. 13.1.</item>
+                  <item>
+                     <hi>A</hi> Fool <hi>despiseth his Father's</hi> Instructions, Prov. 15.5.</item>
+                  <item>
+                     <hi>The</hi> Mouth <hi>of the</hi> Wicked <hi>speaketh frowardness,</hi> Prov. 10.20.</item>
+                  <item>
+                     <hi>A prating</hi> Fool <hi>shall fall,</hi> Prov. 10.8.</item>
+                  <item>
+                     <hi>The Mouth of</hi> Fools <hi>pours out foolishness,</hi> Prov. 15.2.</item>
+                  <item>
+                     <hi>A Companion of</hi> Fools <hi>shall be destroyed,</hi> Prov. 13.20.</item>
+                  <item>
+                     <hi>The Mouth of the</hi> Foolish <hi>is a rod of pride,</hi> Prov. 14.2.</item>
+                  <item>
+                     <hi>The Mouth of the</hi> Foolish <hi>is near Destruction,</hi> Prov. 10.14.</item>
+                  <item>
+                     <hi>She that lives dishonestly is her Fathers heaviness,</hi> Ecclus. 22.4.</item>
+                  <item>
+                     <hi>He that forsaketh his</hi> Father, <hi>is as a blasphemer, and he that angreth his</hi> Mother <hi>is Cursed of God,</hi> Ecclus. 3.16.</item>
+                  <item>
+                     <hi>A</hi> Stubborn <hi>heart shall fare evil at the last.</hi>
+                  </item>
+                  <item>
+                     <hi>An</hi> Obstinate <hi>heart shall be laden with sorrows, and the</hi> Wick<g ref="char:EOLhyphen"/>ed <hi>Man shall heap Sin upon Sin,</hi> Ecclus. 3.26, 27.</item>
+                  <item>
+                     <hi>An</hi> Evil nurtured Son <hi>is the dishonour of his</hi> Father <hi>that be<g ref="char:EOLhyphen"/>gat him: and a</hi> Foolish Daughter <hi>is born to his loss,</hi> Ecclus. 22.3.</item>
+               </list>
+            </div>
+            <div n="wise child" type="part">
+               <head>Children ought,</head>
+               <p n="1">I. TO <hi>fear</hi> their Parents, ye shall <hi>fear</hi> every Man his <hi>Mother</hi> and his <hi>Father, Levit.</hi> 19.3.</p>
+               <p n="2">II. To <hi>Honour</hi> and <hi>Reverence</hi> their <hi>Parents.</hi> A Son <hi>Honours</hi> his <hi>Father;</hi> If I then be a <hi>Father</hi> where is mine <hi>Honour? Malac.</hi> 1.6. <hi>Honour</hi> thy <hi>Father</hi> and <hi>Mother,</hi> that thy days may be long in the Land which the Lord thy God giveth thee, <hi>Exod.</hi> 20.12. <hi>Honour</hi> thy <hi>Father</hi> and <hi>Mother,</hi> (which is the First Com<g ref="char:EOLhyphen"/>mandment with promise, that it may be well with thee, and thou mayst live long on the Earth, <hi>Eph.</hi> 6.2, 3. <hi>Ecclus.</hi> 3. And <hi>Rachel</hi> said unto her <hi>Father,</hi> Let it not displease my Lord, that I cannot <hi>rise up before thee, Gen.</hi> 31.35.</p>
+               <p n="3">III. To <hi>Relieve</hi> and <hi>Succour</hi> their <hi>Parents:</hi> And <hi>Joseph</hi> nourished his <hi>Father,</hi> with Bread, <hi>Gen.</hi> 47.12. God Commanded, saying, <hi>Honour</hi> thy <hi>Father</hi> and <hi>Mother,</hi> and he that curseth <hi>Father or Mother,</hi> let him dye the Death: But ye say, whosoever shall say to his <hi>Father</hi> or <hi>Mother,</hi> it is a Gift, whatsoever thou mightest be profited by me, and <hi>Honour</hi> not his <hi>Father</hi> or <hi>Mother,</hi> he shall be free, <hi>Matth.</hi> 15.4, 5, 6. <hi>Honour</hi> thy <hi>Father</hi> with thy whole Heart, and forget not the sorrows of thy <hi>Mother.</hi> Remember that thou wast begat of them, and how canst thou recompense them the things that they have done for thee, <hi>Ecclus.</hi> 7.27, 28. If any Widow have Children or Nephews, let them learn first to shew piety at home, and <hi>Requite their Parents,</hi> for that is good and acceptable before God, 1 <hi>Tim.</hi> 5.4.</p>
+               <p n="4">IV. To <hi>obey</hi> their <hi>Parents Instructions.</hi> Hear ye <hi>Children</hi> the Instruction of a <hi>Fa<g ref="char:EOLhyphen"/>ther. Prov.</hi> 4.1. My Son give me thine Heart, and let thine Eyes observe my ways, <hi>Prov.</hi> 23.26. Hear thou my Son, and be Wise, and guide thine Heart in the way. Hearken unto thy <hi>Father</hi> that begat thee, and despise not thy <hi>Mother</hi> when she is old, <hi>Prov.</hi> 23.19, 22 My Son, hear the Instruction of thy <hi>Father,</hi> and forsake not the <hi>Law</hi> of thy <hi>Mother, Prov.</hi> 1.8. My Son keep thy <hi>Father</hi>'s Commandments, and forsake not the <hi>Law</hi> of thy <hi>Mother. Prov.</hi> 6.20. <hi>Children</hi> obey your <hi>Parents</hi> in all things, <hi>Col.</hi> 3.20. <hi>Children</hi> obey your <hi>Parents</hi> in the Lord, for this is right. <hi>Eph.</hi> 6.1. A certain man had two Sons; and he came to the First, and said, Son, go work to day in my Vinyard. He answerd and said, I will not: But afterward he repented and went. And he came to the second, and said likewise. And he answered and said, I go, Sir; and went not. Whether of them twain did the will of his <hi>Fa<g ref="char:EOLhyphen"/>ther?</hi> They say unto him the first, St. <hi>Math.</hi> 21.28, 29, 30. And <hi>Jesus,</hi> went down with his <hi>Parents,</hi> and came to <hi>Nazareth,</hi> and was <hi>Subject</hi> unto them, St. <hi>Luke,</hi> 2.51. Tho he [Christ] were a <hi>Son,</hi> yet he learnt <hi>Obedience</hi> by the things which he suffered, <hi>Heb.</hi> 5.8.</p>
+               <p n="5">V. To <hi>Submit</hi> to the <hi>Correction</hi> of their <hi>Parents.</hi> We have had <hi>Fathers</hi> of our flesh, who <hi>Corrected</hi> us, and we gave them reverence. <hi>Heb.</hi> 12.9. He that refuseth <hi>Cor<g ref="char:EOLhyphen"/>rection</hi> despiseth his own Soul, <hi>Prov.</hi> 15.2. But he that heareth reproof getteth un<g ref="char:EOLhyphen"/>derstanding.</p>
+               <p n="6">VI. To follow the advice of their <hi>Parents</hi> in <hi>Marrying.</hi> And <hi>Isaac</hi> called <hi>Jacob,</hi> and said unto him, Thou shall not take of the Daughters of <hi>Canaan.</hi> Arise go to <hi>Pa<g ref="char:EOLhyphen"/>dan-Aram,</hi> to the house of <hi>Bethuel</hi> thy <hi>Mother's Father,</hi> and take thee a Wife from thence; and <hi>Jacob obeyed</hi> his <hi>Father</hi> and his <hi>Mother, Gen.</hi> 21.1, 2, 7.</p>
+               <p n="7">VII. To follow the advice of <hi>Guardians. Esther</hi> did the <hi>Commandment</hi> of <hi>Mordecai;</hi> brought up <hi>Hadassah</hi> (that is, <hi>Esther</hi>) his Uncle's Daughter, for she had neither <hi>Father</hi> nor <hi>Mother, Esther,</hi> 2.</p>
+            </div>
+            <div n="foolish child" type="part">
+               <head>Children ought not,</head>
+               <p n="1">I. TO <hi>Curse</hi> their <hi>Parents.</hi> Every one that Curseth his <hi>Father,</hi> or his <hi>Mother,</hi> shall be surely put to Death: He that <hi>Curseth</hi> his <hi>Father,</hi> or his <hi>Mother,</hi> his Blood shall be upon him, <hi>Exod.</hi> 21.17. <hi>Levit.</hi> 20.9. Who so <hi>Curseth</hi> his <hi>Father,</hi> or his <hi>Mother,</hi> his Lamp shall be put out in obscure Darkness, <hi>Prov.</hi> 20.20. He that <hi>Curseth Father,</hi> or <hi>Mother,</hi> let him dye the death, St. <hi>Matth.</hi> 15.4. There is a Generation that <hi>Curseth</hi> their <hi>Father,</hi> and doth not <hi>Bless</hi> their <hi>Mo<g ref="char:EOLhyphen"/>ther, Prov.</hi> 30.11.</p>
+               <p n="2">II. To <hi>Strike</hi> their <hi>Parents.</hi> He that <hi>Smiteth</hi> his <hi>Father,</hi> or his <hi>Mother,</hi> shall be surely put to Death, <hi>Exod.</hi> 21.15.</p>
+               <p n="3">III. To <hi>Rob</hi> their <hi>Parents.</hi> Who so <hi>Robbeth</hi> his <hi>Father,</hi> or his <hi>Mother,</hi> and saith it is no Transgression; the same is a Companion of a Destroyer, <hi>Prov.</hi> 28.24.</p>
+               <p n="4">IV. To <hi>Despise</hi> and <hi>Deride</hi> their <hi>Parents. Despise</hi> not thy <hi>Mother</hi> when she is Old, <hi>Prov.</hi> 23.22. A Fool <hi>despiseth</hi> his <hi>Father</hi>'s Instructions, <hi>Prov.</hi> 15.5. The Eye that <hi>Mocketh</hi> at his <hi>Father,</hi> and <hi>Despiseth</hi> to obey his <hi>Mother;</hi> the Ravens of the Valley shall pick it out, and the young Eagles shall Eat it, <hi>Prov.</hi> 30.17. In thee [Jerusalem] have they <hi>set light</hi> by <hi>Father</hi> and <hi>Mother, Ezech.</hi> 22.7. Curs<g ref="char:EOLhyphen"/>ed is he that <hi>setteth light</hi> by his <hi>Father, Deut.</hi> 27.16. Glory not in the <hi>Dishon<g ref="char:EOLhyphen"/>our</hi> of thy <hi>Father;</hi> for thy Father's <hi>Dishonour</hi> is no <hi>Glory</hi> to thee, <hi>Ecclus.</hi> 3.10. A foolish Son <hi>Despiseth</hi> his <hi>Mother, Prov.</hi> 15.20. And <hi>Ham</hi> the Father of <hi>Ca<g ref="char:EOLhyphen"/>naan,</hi> saw the Nakedness of his <hi>Father, [Noah]</hi> and told his two Brethren, and <hi>Noah</hi> said, Cursed be <hi>Canaan:</hi> a Servant of Servants, shall he be to his Brethren, <hi>Gen.</hi> 9.22, 25.</p>
+               <p n="5">V. To be <hi>Disobedient</hi> to <hi>Parents,</hi> God gave them over to a reprobate Mind, <hi>&amp;c.</hi> — To be <hi>Disobedient</hi> to <hi>Parents, Rom.</hi> 1.28, 30. For Men shall be — <hi>Diso<g ref="char:EOLhyphen"/>bedient</hi> to <hi>Parents</hi> in the last times, 2 <hi>Tim.</hi> 3.2. If one Man Sin against another, the Judg shall Judg him: But if a Man Sin against the Lord, who shall intreat for him? Notwithstanding they <hi>[Hophni</hi> and <hi>Phinehas]</hi> hearkned not unto the Voice of their <hi>Father;</hi> because the Lord would slay them, 1 <hi>Sam.</hi> 2.25. If a Man have a <hi>Stubborn</hi> and <hi>Rebellious</hi> Son, who will not Obey the Voice of his <hi>Fa<g ref="char:EOLhyphen"/>ther,</hi> or the Voice of his <hi>Mother,</hi> and yet when they have <hi>Chastened</hi> him, will not hearken unto them: Then shall his <hi>Father</hi> and his <hi>Mother</hi> lay hold on him, and bring him out unto the <hi>Elders</hi> of his City, and unto the Gate of his place; and they shall say unto the Elders of his City, this our Son is <hi>Stubborn</hi> and <hi>Rebellious,</hi> he will not <hi>Obey</hi> our Voice: He is a <hi>Glutton</hi> and a <hi>Drunkard.</hi> And all the Men of the City shall Stone him with Stones, that he dye, <hi>Deut.</hi> 21.18, 19, 20.</p>
+               <p n="6">VI. To <hi>Marry</hi> without the <hi>Parents Consent.</hi> And <hi>Esau</hi> was 40 Years Old when he took to Wife <hi>Judith,</hi> the Daughter of <hi>Beeri</hi> the <hi>Hittite,</hi> and <hi>Bathshemah</hi> the Daughter of <hi>Elon</hi> the <hi>Hittite;</hi> which were a <hi>Grief</hi> of <hi>Mind</hi> unto <hi>Isaac</hi> and to <hi>Re<g ref="char:EOLhyphen"/>beccah,</hi> Gen. 26.24, 25. If a <hi>Woman</hi> Vow a Vow unto the Lord, and bind herself by a Bond, being in her <hi>Father's House in her youth</hi> — and her <hi>Father</hi> disallow her in the day that he heareth; not any of her Vows, or of her Bonds, wherewith she had bound her Soul, shall stand: and the Lord shall forgive her, because <hi>her Father disallowed her,</hi> Numb. 30.3, 5.</p>
+               <p n="7">VII. To Disrespect <hi>Guardians,</hi> for they are in the place, of <hi>Parents.</hi>
+               </p>
+            </div>
+            <div n="wise child" type="part">
+               <head>Reward of Obedience.</head>
+               <p>HOnour thy <hi>Father</hi> and thy <hi>Mother</hi> both in word and deed, that a <hi>Blessing</hi> may come upon thee from them, <hi>Ecclus.</hi> 3.8. My Son if thou wilt receive my words, and hide my Commandments with thee, Then shalt thou understand the fear of the Lord, and find the knowledg of God, <hi>Prov.</hi> 2.1, 5. <hi>Honour thy Father and Mother, that it may be well with thee, and thou mayest live long on the Earth,</hi> Eph. 6.2, 3. Exo. 20.12.</p>
+            </div>
+            <div n="foolish child" type="part">
+               <head>Punishment of Disobedient.</head>
+               <p n="1">1. HIs Blood shall be upon him, <hi>Lev.</hi> 20.9.</p>
+               <p n="2">2. His Lamp shall be put out in obscure Darkness, <hi>Prov.</hi> 2.2.</p>
+               <p n="3">3. He shall surely be put to Death, <hi>Exod.</hi> 21.17. <hi>Mat.</hi> 15.4.</p>
+               <p n="4">4. He shall be stoned that he dye, <hi>Deut.</hi> 21.21.</p>
+               <p n="5">5. The Ravens of the Vally shall pick out his Eyes, and the young Eagles Eat them, <hi>Prov.</hi> 30.17.</p>
+               <p n="6">6. He shall die the death, St. <hi>Matth.</hi> 15.4.</p>
+            </div>
+            <div type="prayer">
+               <head>PRAYER or COLLECT.</head>
+               <p>O <hi>Lord God! Heavenly Father, from whom every good and perfect Gift cometh, pour into my Heart such unfeigned Affection to my</hi> Father <hi>and</hi> Mother, <hi>[or Tutors and Guar<g ref="char:EOLhyphen"/>dians] that I may ever</hi> Love, Fear <hi>and</hi> Honour <hi>them, that I may</hi> Support, Cherish <hi>and</hi> Succour <hi>them in all their Wants; that I may willingly submit to all their</hi> Chastise<g ref="char:EOLhyphen"/>ments <hi>and</hi> Corrections; <hi>that I may diligently observe all their good</hi> Instructions, <hi>and cheerfully perform all their Lawful</hi> Commands, <hi>for his sake, who was</hi> Subject <hi>to his</hi> Parents <hi>here on</hi> Earth, <hi>and</hi> Obedient <hi>to thee, his and our</hi> Father which art in Heaven, <hi>even Jesus Christ thy only Son, our Saviour and Redeemer,</hi> Amen.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Sam.</hi> and <hi>Will. Keble</hi> at the <hi>Turk's-Head</hi> in <hi>Fleet-street.</hi>
+            </p>
+         </div>
+         <div type="publishers_advertisement">
+            <p>There is lately Published, The Duty of Servants: Printed in a Sheet like this. The Church of <hi>England-Man</hi>'s Private Devotions, being a Collection of Prayers out of the <hi>Common-Prayer</hi> Book. The Holy Days: Or the Holy Feasts and Fasts, as they are observed in the Church of <hi>England,</hi> Explain'd. Preparations to a Holy Life, or Devotions for Families, A Week's Preparation for the Sacrament. A Collection of Miscellanies upon several Sub<g ref="char:EOLhyphen"/>jects Divine and Moral. The Passion Week. All by the Author of <hi>The Week's Preporation to the Sacrament.</hi> Bound in one Volum. Printed for the abovesaid.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
